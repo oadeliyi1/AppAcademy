@@ -1,0 +1,42 @@
+Objectives - Problem- solving
+1.Craft a clear, concise coding question to a more experienced developer
+2.Research unknown JavaScript code syntax using MDN
+3.Identify and fix a bug in code based on an error message
+4.Manage your time and stress at AppAcademy
+
+*Asking Good Questions
+15 minute rule: If you are stuck for more than 15 minutes on a problem with no progress, you are REQUIRED to ask a question
+
+A Good Question...
+-It's specific
+-It's clear and concise
+-It shows that you've put work into it
+    - Use REPL to solve it yourself first. If you notice a pattern with how your teacher answers questions try to replicate that pattern.
+
+Overall
+You learned
+When you have a question..
+- Try it out in a REPL - If you are curious/unsure about how a line of code will execute, try it out in a REPL
+- Use official documentation - Explore documentation like MDN for questions about syntax or usage of an operation or function
+- Ask an instructor - Ask your formulated question to an instructor during work hours
+- Ask your peers - Post your formulated question on your cohort's Slack channel after hours
+- Take time formulating your question
+A good question is specific, clear, concise, and shows you put work into it
+- 15 minute rule - Ask a question if you've been stuck on a problem for more than 15 minutes
+
+EXPRESSIONS
+
+- Hello World!, Syntax, and Comments
+
+In real world applications, console.log should be used for debugging purposes only
+
+- The Boolean Data Type
+JavaScript will evaluate ! then && then ||.
+     - De Morgan's Law
+        !(A || B) is equivalent to !A && !B
+        !(A && B) is equivalent to !A || !B
+
+        In other words, to correctly distribute ! across parentheses,
+        we must also flip the operation within parentheses.
+
+- Comparison Operators
