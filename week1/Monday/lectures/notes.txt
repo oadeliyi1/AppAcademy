@@ -1,0 +1,30 @@
+HOW TO LEARN
+1. Be an Active Learner
+Try to be an active learner as much as possible
+Engage in material
+Give us space to receive feedback on progress
+Feel difficult
+
+2.Desirable Difficulty
+
+Effective learners desire difficulty, challenging but still possible.
+
+Try to be an active learner as much as possible.. effective practice should simulate the target skill as closely as possible
+
+
+Effective leanrning space there learning ---> have multiple practice sessions
+   --- Ill be using my JS resources I saved to practice.
+
+
+3. Spaced Learning
+When you have long training sessions, you can practice multiple sessions during long
+
+DEBUGGING
+Debugging - process of finding error in code and figuring how to solve.
+
+FAVORITE FOOD
+- Reading Errors
+
+   - Look at the type
+   - Look for a file/line number
+   - If you can tell a TA where an error is occurring in your code and what that error message says, you're well on your way to being an expert debugger.
