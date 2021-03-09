@@ -28,3 +28,10 @@ FAVORITE FOOD
    - Look at the type
    - Look for a file/line number
    - If you can tell a TA where an error is occurring in your code and what that error message says, you're well on your way to being an expert debugger.
+
+EOD
+
+Google Developer Tools (Debugger Tool)
+Inspect --> Sources --> snippets
+
+type debugger to go through each line of code
