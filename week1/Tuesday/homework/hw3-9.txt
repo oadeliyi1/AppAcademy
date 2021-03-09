@@ -1,0 +1,74 @@
+STRINGS
+.length allows you to get number of characters in a string
+
+FUNCTIONS
+//Writing a function is known as a function declaration/function definition
+
+example: we want to write code that finds the average of two given numbers
+         - this means that well write code that:
+               - takes two numbers
+               - adds them together
+               - then divinde their sum by two
+(5 + 5) / 2   // Returns 5
+
+(15 + 3) / 2  // Returns 9
+
+(7 + 2) / 2   // Returns 4.5
+
+Instead of rewriting this equation over and over again we can DEFINE/DECLARE a function
+
+Function declaration
+   - defining a function to use it later
+   - when we use it, we are CALLING/INVOKING it
+
+   -Function definition consists of function keyword, and these three things:
+      1. NAME of function
+      2. List of PARAMETERS to functionm in parentheses ( )
+      3. The CODE TO BE RUN, in curly brackets { }
+
+So to find average of those two numbers from above, the function would have:
+   1. function name, average
+   2. two paremeter(num1 and num2)
+   3. the code that handles logic of two avereraging numbers.
+
+Know that when you define a function
+with parameters you are declaring those parameters
+as usable variables within that function.
+
+
+ However, when JavaScript sees a function definition, JavaScript will not evaluate the code inside
+  the definition. It will execute the code inside the definition only when the function is invoked.
+
+   Returning a Value
+Every function in JavaScript returns undefined unless otherwise specified.
+ - Functions evaluate to their return value
+ - once there is a return the function will immediately stop, return value, any code below in function will be ignored
+
+ Great code reads like English and almost explains itself!
+ Write good describtive names for variables and functions
+
+ PARAMETERS
+   - Parameters vs. Arguments
+      - Parameters - comma seperated variables specifies part of functions declaration
+      - Arguments - values passed to the function when invoked
+
+CONTROL FLOW
+- control flow is the order in which instructions are executed within a program.
+   - control flows are modified by using Control Structures - expressions that alter the control flow based on given parameterd
+
+Common control strucutres --> Conditionals
+
+MUTUALLY EXCLUSIVE CONDITIONS
+coding tip: DONT REPEAT YOURSELF (DRY)
+
+   - A general rule of thumb is that if you are working with a condition that is mutually exclusive,
+    meaning if one condition is true the other condition must be false, then you should use an if/else statement.
+    - like a coin flip; it can either be heads or tails but not both.
+    writng code is like an art become an artist
+
+Now lets move on the the second famous control structure:
+
+LOOPS
+
+
+ARRAYS
