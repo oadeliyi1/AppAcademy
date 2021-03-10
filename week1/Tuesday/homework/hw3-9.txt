@@ -53,7 +53,7 @@ Every function in JavaScript returns undefined unless otherwise specified.
       - Arguments - values passed to the function when invoked
 
 CONTROL FLOW
-- control flow is the order in which instructions are executed within a program.
+   - order in which instructions are executed within a program.
    - control flows are modified by using Control Structures - expressions that alter the control flow based on given parameterd
 
 Common control strucutres --> Conditionals
@@ -72,3 +72,6 @@ LOOPS
 
 
 ARRAYS
+
+   METHODS
+   The push() method adds one or more elements to the end of an array and returns the new length of the array.
